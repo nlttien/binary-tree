@@ -1,0 +1,13 @@
+{
+  "name": "binary-tree",
+  "version": "1.0.0",
+  "description": "Binary Tree exercises and implementations in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test-all.js",
+    "start": "node index.js"
+  },
+  "keywords": ["binary-tree", "data-structures", "javascript", "exercises"],
+  "author": "",
+  "license": "ISC"
+}
